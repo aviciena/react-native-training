@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "id": "243602",
+            "name": "Sandy Satriyadi Putra",
+            "email": "sandy.s@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Handrias Septian Firmansyah",
+                "startDate": "October 1, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "451154",
+            "name": "Achmat Afif",
+            "email": "achmat.afif@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "English",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Harry Santoso",
+                "startDate": "January 29, 2018",
+                "phone": "+62 896-123-345"
+            }
+        },
+        {
+            "id": "123687",
+            "name": "Panji Satryo Pramulis",
+            "email": "panji.s@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Herbayu Aditya",
+                "startDate": "January 13, 2020",
+                "phone": ""
+            }
+        },
+        {
+            "id": "124488",
+            "name": "Agung Budi Ihsan",
+            "email": "agung.budi@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Ardion bahari  pratama",
+                "startDate": "November 4, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "123567",
+            "name": "Joko Sriyono",
+            "email": "joko.s@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "English",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Robin Cahyadi",
+                "startDate": "December 9, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "124482",
+            "name": "Lukman Alwi Sali",
+            "email": "lukman.alwi@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Lucky Rendra Ferdiyawan",
+                "startDate": "November 4, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "121172",
+            "name": "Emil Fajri Poham",
+            "email": "emil.fajri@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Anton Kurniawan",
+                "startDate": "December 9, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "122345",
+            "name": "Ridwan setiawan",
+            "email": "ridwan.s@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Jaka Tri Widada",
+                "startDate": "November 25, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "123345",
+            "name": "Achmad Nurhisam",
+            "email": "achmad.n@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Taufik Hidayat",
+                "startDate": "December 9, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "122487",
+            "name": "Heppy Endrayanto Prasetyo",
+            "email": "heppy.e@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Taufik Hidayat",
+                "startDate": "November 4, 2019",
+                "phone": ""
+            }
+        },
+        {
+            "id": "123900",
+            "name": "Sulvian Hindianto",
+            "email": "sulvian.h@training.net",
+            "image": "",
+            "details": {
+                "position": "Software Engineer I",
+                "location": "Indonesia",
+                "language": "Indonesian, English",
+                "department": "SC - X",
+                "division": "ENGINEERING",
+                "manager" : "Jufri Irmanto Puatipanna",
+                "startDate": "December 17, 2019",
+                "phone": ""
+            }
+        }
+    ]
+}
