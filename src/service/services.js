@@ -4,6 +4,13 @@ const API = axios.create({
     timeout: 60000
 });
 
+/**
+ * Do request API and return promise
+ * @param {String} url
+ * @param {String} httpMethod
+ * @param {Object} params
+ * @param {Object} header 
+ */
 export const request = (url, httpMethod, params, header = {}) =>
     new Promise((resolve, reject) => {
         try {
@@ -51,6 +58,11 @@ export const request = (url, httpMethod, params, header = {}) =>
         }
     });
 
+/**
+ * Get response object
+ * @param {Object} response
+ * @param {Object} error
+ */
 const parseResponse = (response, error = null) => {
     if (error !== null) {
         const errorObj = JSON.parse(JSON.stringify(error));
